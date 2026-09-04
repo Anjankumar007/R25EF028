@@ -3,3 +3,5 @@ Hi! I am ANJANKUMAR B H and I am a Computer Science Engineering student learning
 learning data structures and algorithm in C and learning full stack web development
 
 interested in Machine Learning and AI implementaion
+
+my goal is to be skilled AI engineer
