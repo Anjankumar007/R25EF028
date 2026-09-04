@@ -5,3 +5,7 @@ learning data structures and algorithm in C and learning full stack web developm
 interested in Machine Learning and AI implementaion
 
 my goal is to be skilled AI engineer
+
+## Projects
+
+I am worked on a Smart Door Lock System using ESP32, RFID, keypad, and other components. I plan to build more software and hardware projects as I improve my technical skills.
