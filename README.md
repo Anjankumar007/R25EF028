@@ -1,1 +1,3 @@
 Hi! I am ANJANKUMAR B H and I am a Computer Science Engineering student learning software tools and version control workflows. This repository serves as my personal portfolio created for my engineering portfolio course to document my learning journey, technical skills, and project history.
+
+learning data structures and algorithm in C and learning full stack web development
